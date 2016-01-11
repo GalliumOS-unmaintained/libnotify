@@ -1,3 +1,9 @@
+libnotify (0.7.6-2svn1-galliumos1) vivid; urgency=medium
+
+  * Set package version to match provenance
+
+ -- reynhout <reynhout@galliumos.org>  Sun, 10 Jan 2016 21:05:33 +0000
+
 libnotify (0.7.7-1) vivid; urgency=medium
 
   * Added patch to replace notification: https://launchpadlibrarian.net/105782520/print-and-replace-id.patch
